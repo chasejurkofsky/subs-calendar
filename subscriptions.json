@@ -1,0 +1,44 @@
+{
+    "subscriptions": [
+
+        {
+            "id": "youtube",
+            "name": "YouTube",
+            "price": 23.00,
+            "day": 12,
+            "img_src": "images/youtube.png"
+        },
+        
+        {
+            "id": "amazon",
+            "name": "Amazon",
+            "price": 8.00,
+            "day": 14,
+            "img_src": "images/amazon.png"
+        },
+
+        {
+            "id": "xbox",
+            "name": "Xbox",
+            "price": 30.00,
+            "day": 15,
+            "img_src": "images/xbox.png"
+        },
+
+        {
+            "id": "chat_gpt",
+            "name": "ChatGPT",
+            "price": 20.00,
+            "day": 26,
+            "img_src": "images/chatgpt.png"
+        },
+
+        {
+            "id": "wifi",
+            "name": "WIFI",
+            "price": 102.00,
+            "day": 27,
+            "img_src": "images/wifi.png"
+        }
+    ]
+}
