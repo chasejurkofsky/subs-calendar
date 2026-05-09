@@ -20,7 +20,7 @@
         {
             "id": "xbox",
             "name": "Xbox",
-            "price": 30.00,
+            "price": 23.00,
             "day": 15,
             "img_src": "images/xbox.png"
         },
